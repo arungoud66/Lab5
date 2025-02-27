@@ -21,7 +21,7 @@ python manage.py migrate
 - Run the dev server
 
 ```bash
-python3 manage.py runserver
+python manage.py runserver
 ```
 
 The development server will start at [http://127.0.0.1:8000/](http://127.0.0.1:8000/)
